@@ -9866,3 +9866,4 @@ Network Error: Operation canceled
 [2024-11-24 17:18:16.413] [I] Snipper: quit
 [2024-11-24 17:18:16.413] [I] Screenshot successfully saved: clipboard, 
 [2024-11-24 17:18:17.085] [I] Snipper: scene saved
+[2024-11-24 17:21:02.002] [I] Preloaded 28 files: 260 ms [every 5.8 m]
